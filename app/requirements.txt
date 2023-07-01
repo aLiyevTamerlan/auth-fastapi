@@ -10,6 +10,7 @@ ecdsa==0.18.0
 email-validator==2.0.0.post2
 exceptiongroup==1.1.1
 fastapi==0.98.0
+fastapi-jwt-auth==0.5.0
 FastAPI-SQLAlchemy==0.2.1
 greenlet==2.0.2
 h11==0.14.0
@@ -20,6 +21,7 @@ passlib==1.7.4
 pyasn1==0.5.0
 pycparser==2.21
 pydantic==1.10.9
+PyJWT==1.7.1
 python-jose==3.3.0
 python-multipart==0.0.6
 rsa==4.9
